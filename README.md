@@ -8,7 +8,7 @@ You can see an example repository here: https://github.com/schubert/brewstrap-ex
 
 ### Running
 
-    curl -L http://git.io/PvkgGw > /tmp/$USER-brewstrap.sh && bash /tmp/$USER-brewstrap.sh
+    curl -L https://raw.github.com/Greenie0506/brewstrap/master/brewstrap.sh > /tmp/$USER-brewstrap.sh && bash /tmp/$USER-brewstrap.sh
 
 ### Options (set before running)
 
