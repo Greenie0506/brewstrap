@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-BREWSTRAP_BASE="https://github.com/schubert/brewstrap"
+BREWSTRAP_BASE="https://github.com/Greenie0506/brewstrap"
 PLATFORM=`uname -s`
 BREWSTRAP_BIN="${BREWSTRAP_BASE}/raw/master/brewstrap_${PLATFORM}.sh"
 
